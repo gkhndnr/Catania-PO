@@ -1,0 +1,6 @@
+{
+  "name": "Compagnon Oral - Du préromantisme aux Années folles",
+  "description": "Entraînement oral interactif et sociocritique pour les étudiants du DISUM (Università di Catania, cours de Gökhan Dinar) : entretiens avec les auteurs, oraux blancs, révisions et débats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
